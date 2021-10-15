@@ -11,3 +11,5 @@ public class BlogApplication {
 	}
 
 }
+
+// doc base do prof: https://docs.google.com/document/d/1-JKHsVPmTGOFJPE1pjZIrMbZ83a8aylLJv4SFBdZJsI/edit?pli=1
